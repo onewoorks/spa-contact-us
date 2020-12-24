@@ -15,8 +15,9 @@ function App() {
   return (
     <div className="App">
       <div className="App-header">
-      <Lottie options={defaultOption} height={500} width={750} />
-      <div style={{fontSize:'1.2em', textTransform:"uppercase", lineHeight:'1em'}}>
+        <img src="/images/onewoorks2015.jpg" alt="onewoork solutions" />
+      <Lottie options={defaultOption} height={350} width={600} />
+      <div style={{fontSize:'1.2em', textTransform:"uppercase", lineHeight:'1.2em'}}>
       <div>Modul ini belum diaktifkan</div>
       <div>Hubungi Kami</div>
       </div>

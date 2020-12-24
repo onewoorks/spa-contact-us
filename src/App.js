@@ -21,6 +21,7 @@ function App() {
       <div>Hubungi Kami</div>
       </div>
       <div style={{marginTop:10, textDecoration:'italic', fontSize:'0.6em'}}><i>Onewoorks Solutions | Web Application Developer</i></div>
+      <a style={{fontSize:'0.6em', textDecoration:'none', marginTop:15}} href="https://apps.pengurusanemas.my">Kembali ke Cental Apps</a>
       </div>
     </div>
   );
